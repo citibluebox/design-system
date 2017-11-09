@@ -1,0 +1,91 @@
+/*
+* BlueBox v0.0
+* Copyright 2017, Citibanamex
+* www.bluebox.com
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Logo
+- Grid
+- Base Styles
+- Typography
+- Links
+- Buttons
+- Forms
+- Lists
+- Code
+- Tables
+*/
+
+
+/* Logo
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.logo:before{
+	content: "\e901";
+	font-family: "BlueBox";
+	color: #FF0000;
+	position: relative;
+    left: 1.3em;
+}
+.logo.white{color: #fff;}
+.logo.blue{color: #004785;}
+
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* Grid
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* Colors
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.bg-blueWave{
+background: #0076c0; /* Old browsers */
+background: -moz-linear-gradient(top,  #0076c0 0%, #002d72 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #0076c0 0%,#002d72 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #0076c0 0%,#002d72 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0076c0', endColorstr='#002d72',GradientType=0 ); /* IE6-9 */
+}
+.bg-citiBlue{background: #004785;}
+.bg-citiRed{background: #FF0000;}
+.bg-white{background: #fff;}
+.bg-cyan{background: #00BDF2;}
+.bg-navy{background: #002D72;}
+.bg-actionBlue{background: #0076C0;}
+.bg-actionRed{background: #EE3123}
+.bg-actionGreen{background: #2ECC71;}
+.bg-backgroundGray{background: #F6F7F9;}
+.bg-disabledGray{background: #E3E2E6;}
+.bg-gray{background: #A4AAB3;}
+.bg-darkLight{background: #B3B3B3;}
+.bg-darkMedium{background: #787878;}
+.bg-darkGray{background: #2B2B2B;}
+
+.bg-yellow{background: #FFCD00;}
+.bg-goldenrod{background: #FFCD00;}
+.bg-tangerine{background: #FFCD00;}
+.bg-burntOrange{background: #FFCD00;}
+.bg-lavender{background: #FFCD00;}
+.bg-purple{background: #FFCD00;}
+.bg-fuchsia{background: #FFCD00;}
+.bg-plum{background: #FFCD00;}
+.bg-teal{background: #FFCD00;}
+.bg-aqua{background: #FFCD00;}
+.bg-green{background: #FFCD00;}
+.bg-forest{background: #FFCD00;}
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button{
+
+}
+
+
+
+
+
+
