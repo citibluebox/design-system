@@ -11,6 +11,6 @@ This hub will be continuously updeted, make sure to use the latest version and y
 ## Quick start
 
 1. Clone the project with `git clone https://github.com/citibluebox/design-system.git`
-2. Run `npm install` in the root design-system folder.
-3. Run `npm start` to launch the Previewer.
-4. Visit http://localhost:3003/local/preview
+2. 
+3.
+4. 
