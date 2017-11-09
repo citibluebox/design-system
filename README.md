@@ -7,10 +7,10 @@ The use of this design system will result in more consistent User Interfaces tha
 
 This hub will be continuously updeted, make sure to use the latest version and your products will be always up to date with BlueBox design guidelines. 
 
+## What's New
 
 ## Quick start
 
-1. Clone the project with `git clone https://github.com/citibluebox/design-system.git`
-2. 
-3.
-4. 
+## Designers
+
+## Developers
